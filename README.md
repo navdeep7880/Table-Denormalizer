@@ -16,7 +16,7 @@ Installation :
 To use this project, you need to have Python installed along with the necessary libraries. You can set up your environment using the following steps:
 
 Clone the Repository:
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/navdeep7880/Table-Denormalizer/tree/main
 cd your-repo-name
 
 Create a Virtual Environment (optional but recommended):
